@@ -1,3 +1,10 @@
+# 설명  
+로봇 알고리즘 학습을 위한 Python 샘플 코드를 정리한 레포지토리입니다.  
+참고 링크: https://atsushisakai.github.io/PythonRobotics/  
+
+<br><br>  
+
+
 <img src="https://github.com/AtsushiSakai/PythonRobotics/raw/master/icon.png?raw=true" align="right" width="300" alt="header pic"/>
 
 # PythonRobotics
