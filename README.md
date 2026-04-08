@@ -1,5 +1,5 @@
 # 설명  
-로봇 알고리즘 학습을 위한 Python 샘플 코드를 정리한 레포지토리입니다.  
+로봇 알고리즘 학습을 위한 Python 샘플 코드를 정리한 저장소입니다.  
 참고 링크: https://atsushisakai.github.io/PythonRobotics/  
 
 <br><br>  
@@ -655,4 +655,3 @@ They are providing a free license of their 1Password team license for this OSS p
 # Authors
 
 - [Contributors to AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics/graphs/contributors)
-
